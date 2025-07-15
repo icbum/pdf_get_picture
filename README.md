@@ -30,5 +30,9 @@ pip install pymupdf pillow imagehash
 
 > ✅ 使用 Real-ESRGAN-AnimeVideo-v3 模型，支持 GPU 自动加速。
 
+---
+
+## 📂 项目目录结构
+
 
 
