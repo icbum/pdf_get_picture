@@ -22,7 +22,7 @@
 ```bash
 pip install pymupdf pillow imagehash
 
-
+---
 
 # 🔍 Real-ESRGAN 图像分辨率增强脚本（Anime Video V3 模型）
 
